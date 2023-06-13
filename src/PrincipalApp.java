@@ -2,7 +2,7 @@ public class PrincipalApp {
 
 	public static void main(String[] args) {
 		
-		int [] array =  {8,90,7,1,78};
+		int [] array =  {5,6,8,78,69,0};
 	    String resultado;
 	    
 	    ClaseConstructor repaso = new ClaseConstructor(array);
